@@ -1,0 +1,11 @@
+.finder {
+  background-color: black;
+  display: inline-block;
+  color: #fff;
+  padding: 10px 36px;
+  cursor: pointer;
+  transition: all 0.4s;
+}
+.finder:hover {
+  background-color: rgb(85, 85, 158);
+}
